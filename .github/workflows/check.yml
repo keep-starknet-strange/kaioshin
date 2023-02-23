@@ -47,4 +47,4 @@ jobs:
           cargo check --features=runtime-benchmarks --release
 
       - name: Build release
-        run: cargo build --release --all
+        run: cargo build --release

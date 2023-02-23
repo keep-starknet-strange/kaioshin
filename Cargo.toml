@@ -35,4 +35,4 @@ sp-std = { default-features = false, git = "https://github.com/paritytech/substr
 
 # Kaioshin primtitives
 kp-starknet = { version = "0.1.0-dev", path = "primitives/starknet", default-features = false }
-poseidon_hash = { default-features = false, package = "poseidon", git = "https://github.com/EvolveArt/poseidon-rs", branch = "feature/no-std-refractor", features = ["alloc"]}
+poseidon = { default-features = false, git = "https://github.com/EvolveArt/poseidon-rs", branch = "feature/no-std-refractor", features = ["alloc"]}

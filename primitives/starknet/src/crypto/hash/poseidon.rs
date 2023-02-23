@@ -1,4 +1,4 @@
-use poseidon_hash::{
+use poseidon::{
 	convert::{felts_from_u8s, u8s_from_felts},
 	hash_sw8,
 	parameters::sw8::GF,

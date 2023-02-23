@@ -4521,7 +4521,6 @@ dependencies = [
  "log",
  "pallet-randomness-collective-flip",
  "parity-scale-codec",
- "poseidon",
  "scale-info",
  "sp-core",
  "sp-io",

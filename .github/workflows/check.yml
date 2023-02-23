@@ -45,6 +45,3 @@ jobs:
         run: >
           pushd node &&
           cargo check --features=runtime-benchmarks --release
-
-      - name: Build release
-        run: cargo build --release

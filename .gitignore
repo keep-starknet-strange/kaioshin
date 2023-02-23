@@ -17,3 +17,6 @@
 
 # Javascript dependencies
 **/node_modules/
+
+# Artillery reports
+benchmarking/reports/*.json
